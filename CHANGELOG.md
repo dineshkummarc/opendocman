@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1-release](https://github.com/opendocman/opendocman/compare/v2.3.0-release...v2.3.1-release) (2026-07-22)
+
+
+### Bug Fixes
+
+* add space before RP version marker in version.php ([84fb25b](https://github.com/opendocman/opendocman/commit/84fb25b01dde2512613ed904e407d14a065c2911))
+
 ## [2.3.0-release](https://github.com/opendocman/opendocman/compare/v2.2.0-release...v2.3.0-release) (2026-07-22)
 
 
